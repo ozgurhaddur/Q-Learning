@@ -37,7 +37,7 @@ Geliştirilen arayüzle birlikte de 50x50 karesel alan içinde farklı renkler k
 
 -Çevre baz alınarak bir reward table oluşturulur.
 
-![Figure](https://user-images.githubusercontent.com/73740709/125152463-5cc7cd80-e155-11eb-92b8-7716a8d06441.png)
+![Figure](https://user-images.githubusercontent.com/73740709/125152556-e081ba00-e155-11eb-8265-1e37e1d69dc7.png)
 
 -Bir dosya da bulunan engelleri txt dosyasına bastırmaktadır.
 
