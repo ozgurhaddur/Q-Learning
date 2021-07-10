@@ -23,16 +23,22 @@ Geliştirilen arayüzle birlikte de 50x50 karesel alan içinde farklı renkler k
 ## Yalancı Kod ve Kodun Çalışma Prensibi
 - Program IDE içinde çalıştırıldı.
 - Başlangıç ve Çıkış noktalarını girmek için arayüz ekrana geldi.
+- 
 ![Giriş](https://user-images.githubusercontent.com/73740709/125152349-afed5080-e154-11eb-96cc-594911c6c01a.png)
+
 - Robotun hareket etmesi istenen başlangıç noktası, sayı olarak girildi.
 - Robotun hareket etmesi istenen çıkış noktası, sayı olarak girildi.
 - ENTER tuşuna basıldı.
 - Robot yolları rastgele şekilde öğrenip dolaşarak öğrenmeye başladı.
 - Robot yolları öğrendikten sonra oluşturulanpygame arayüzü ekrana çıktı.
 -Çıkan pygame arayüzünde robotun her adımı yani robotun optimal yolu beyaz renkle sırasıyla gösterilerek çıkışa ulaşıldı.
+
 ![Adsız](https://user-images.githubusercontent.com/73740709/125152401-fe9aea80-e154-11eb-92d6-c1a4451f7cc8.png)
+
 -Çevre baz alınarak bir reward table oluşturulur.
+
 ![Figure](https://user-images.githubusercontent.com/73740709/125152463-5cc7cd80-e155-11eb-92b8-7716a8d06441.png)
+
 -Bir dosya da bulunan engelleri txt dosyasına bastırmaktadır.
 
 
