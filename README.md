@@ -1,4 +1,4 @@
-# Q-LEARNING İLE YOL PLANLAMASI PROJESİ
+# Q-LEARNING İLE YOL PLANLAMASI 
 
 ## Giriş
 Çalışmada belirlenen amaç,bir uygulama gerçekleştirimi ile beraber Q-Learning kullanılarak engellerden ve ödüllerden oluşan karesel bir alanda bir robotun giriş yaptığı ve makine öğrenmesi ile optimal yolu belirleyip çıkışa ulaşmasını sağlayan uygulama gerçeklenmesidir.Python yazılım dili kullanılmıştır.Kodun yazılacağı platform da belirlendikten sonra da gerekli algoritmalar oluşturularak robotun Q-Learning mantığı kullanarak öncelikle engellerden kaçması sağlanıp reward değerleri ve olası aksiyonlara göre bir optimal yolu belirlenmiştir. Son olarak bir arayüzle birlikte robotun giriş yaptığı ve çıkışa ulaştığı bir uygulama gerçeklenmiştir.
