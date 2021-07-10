@@ -23,7 +23,7 @@ Geliştirilen arayüzle birlikte de 50x50 karesel alan içinde farklı renkler k
 ## Yalancı Kod ve Kodun Çalışma Prensibi
 - Program IDE içinde çalıştırıldı.
 - Başlangıç ve Çıkış noktalarını girmek için arayüz ekrana geldi.
-- 
+
 ![Giriş](https://user-images.githubusercontent.com/73740709/125152349-afed5080-e154-11eb-96cc-594911c6c01a.png)
 
 - Robotun hareket etmesi istenen başlangıç noktası, sayı olarak girildi.
