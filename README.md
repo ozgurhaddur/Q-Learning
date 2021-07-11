@@ -29,7 +29,7 @@ Geliştirilen arayüzle birlikte de 50x50 karesel alan içinde farklı renkler k
 - ENTER tuşuna basıldı.
 - Robot yolları rastgele şekilde öğrenip dolaşarak öğrenmeye başladı.
 - Robot yolları öğrendikten sonra oluşturulan pygame arayüzü ekrana çıktı.
--Çıkan pygame arayüzünde robotun her adımı yani robotun optimal yolu beyaz renkle sırasıyla gösterilerek çıkışa ulaşıldı.
+- Çıkan pygame arayüzünde robotun her adımı yani robotun optimal yolu beyaz renkle sırasıyla gösterilerek çıkışa ulaşıldı.
 
 ![Adsız](https://user-images.githubusercontent.com/73740709/125152401-fe9aea80-e154-11eb-92d6-c1a4451f7cc8.png)
 
@@ -37,6 +37,6 @@ Geliştirilen arayüzle birlikte de 50x50 karesel alan içinde farklı renkler k
 
 ![Figure](https://user-images.githubusercontent.com/73740709/125152556-e081ba00-e155-11eb-8265-1e37e1d69dc7.png)
 
--Bir dosya da bulunan engelleri txt dosyasına bastırmaktadır.
+- Bir dosya da bulunan engelleri txt dosyasına bastırmaktadır.
 
 
