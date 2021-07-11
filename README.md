@@ -33,7 +33,7 @@ Geliştirilen arayüzle birlikte de 50x50 karesel alan içinde farklı renkler k
 
 ![Adsız](https://user-images.githubusercontent.com/73740709/125152401-fe9aea80-e154-11eb-92d6-c1a4451f7cc8.png)
 
--Çevre baz alınarak bir reward table oluşturulur.
+- Çevre baz alınarak bir reward table oluşturulur.
 
 ![Figure](https://user-images.githubusercontent.com/73740709/125152556-e081ba00-e155-11eb-8265-1e37e1d69dc7.png)
 
